@@ -17,3 +17,5 @@ Afterwards, recompile st with `sudo make install` and you're done!
 # Screenshots
 
 ![Screenshot](https://challenger-deep-theme.github.io/images/screenshots/term.png)
+
+:heart: Thanks to [JanSHoekstra](https://github.com/JanSHoekstra) for porting this theme.
